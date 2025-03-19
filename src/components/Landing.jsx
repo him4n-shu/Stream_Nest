@@ -71,11 +71,11 @@ const Landing = () => {
   const ottPlatforms = [
     { id: 'netflix', name: 'Netflix', logo: '/ott-platform-logo/netflix-logo.png' },
     { id: 'prime', name: 'Prime Video', logo: '/ott-platform-logo/prime-video.png' },
-    { id: 'disney', name: 'Disney+', logo: '/ott-platform-logo/disney +.png' },
+    { id: 'disney', name: 'Disney+', logo: '/ott-platform-logo/disney+.png' },
     { id: 'hulu', name: 'Hulu', logo: '/ott-platform-logo/hulu.png' },
     { id: 'hbo', name: 'HBO Max', logo: '/ott-platform-logo/hbo-max.png' },
     { id: 'apple', name: 'Apple TV+', logo: '/ott-platform-logo/apple-tv+.png' },
-    { id: 'paramount', name: 'Paramount+', logo: '/ott-platform-logo/paramount +.png' },
+    { id: 'paramount', name: 'Paramount+', logo: '/ott-platform-logo/paramount+.png' },
     { id: 'peacock', name: 'Peacock', logo: '/ott-platform-logo/peacock.png' },
     { id: 'crunchyroll', name: 'Crunchyroll', logo: '/ott-platform-logo/crunchyroll.png' },
   ];
