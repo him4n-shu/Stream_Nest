@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+@import "tailwindcss";
+
+
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 25s linear infinite;
+}
+
+:root {
+  --slate-800: rgb(30, 41, 59);
+  --slate-900: rgb(15, 23, 42);
+}
